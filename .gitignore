@@ -1,0 +1,10 @@
+*.h5
+*.gz
+*.bed
+bias/
+index/
+.DS_store
+.Rproj.user
+bacha-index.Rproj
+.Rhistory
+.ipynb_checkpoints/
